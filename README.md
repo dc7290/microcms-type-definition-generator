@@ -1,0 +1,1 @@
+# microcms-type-definition-generator
